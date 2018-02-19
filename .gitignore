@@ -1,0 +1,14 @@
+*.log
+*.class
+*.aux
+*.log
+*.out
+.cproject
+TODO.tasks
+.project
+.project
+.cdtproject
+.settings
+.classpath
+.idea/
+.gradle
